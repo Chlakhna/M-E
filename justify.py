@@ -22,7 +22,7 @@ import time
 from io import BytesIO
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Set your Telegram bot token and chat ID
 telegram_bot_token = '7350243325:AAHZfDsZILAkAHSImd2ja0BwoYVt_VjkMxE'
